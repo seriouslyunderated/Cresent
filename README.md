@@ -1,2 +1,2 @@
 # Cresent
-A Discord Bot built in C#
+Current Features: 
